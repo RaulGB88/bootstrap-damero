@@ -1,6 +1,6 @@
 <pre>
-Repositorio .: plantilla-html5
-Creación ....: 25/06/2015
+Repositorio .: bootstrap-damero
+Creación ....: 26/06/2015
 Autor .......: José A. Pacheco Ondoño - joanpaon@gmail.com
 Centro ......: IES Camp de Morvedre - Sagunto - Valencia - Spain
 Itinerario ..: Ciclos Formativos de Grado Superior
